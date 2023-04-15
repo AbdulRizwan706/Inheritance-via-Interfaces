@@ -1,0 +1,2 @@
+# inheritance-via-interfaces-base
+

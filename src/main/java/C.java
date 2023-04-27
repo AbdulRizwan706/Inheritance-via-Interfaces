@@ -1,4 +1,4 @@
-public class C implements l{
+public class C implements I{
     @Override
     public void fun(){
 
